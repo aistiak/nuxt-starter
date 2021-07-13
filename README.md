@@ -1,3 +1,5 @@
+## live link : https://nuxt-starter-vert.vercel.app/
+
 # nuxt-starter
 
 ## Build Setup
