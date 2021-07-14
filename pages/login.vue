@@ -106,8 +106,8 @@
                       </v-col>
                       <v-col cols="12">
                         <v-text-field
-                          block
                           v-model="verify"
+                          block
                           :append-icon="show1 ? 'mdi-eye' : 'mdi-eye-off'"
                           :rules="[rules.required, passwordMatch]"
                           :type="show1 ? 'text' : 'password'"
